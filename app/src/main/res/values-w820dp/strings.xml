@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="newGame">New Game</string>
+    <string name="contentDesc">imagebutton</string>
+    <string name="oTurn">O\'s turn</string>
+</resources>
