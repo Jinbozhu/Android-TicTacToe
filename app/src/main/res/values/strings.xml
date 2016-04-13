@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Homework1</string>
+    <string name="app_name">Tic Tac Toe</string>
     <string name="newGame">New Game</string>
     <string name="contentDesc">imagebutton</string>
     <string name="oTurn">O\'s turn</string>
